@@ -1,5 +1,5 @@
 #include <sys/types.h>
-#include <sys/time.h>
+#include <time.h>
 #include "substdio.h"
 #include "readwrite.h"
 #include "strerr.h"
